@@ -1,0 +1,3 @@
+org/gsu/justHibernate/App.class
+org/gsu/justHibernate/connection/Connection.class
+org/gsu/justHibernate/entity/Trade.class
